@@ -29,5 +29,11 @@
     "url": "https://github.com/premsagar4us/clawbird",
     "description": "An AI-native browser automation framework tailored for OpenClaw, LangChain, and AI agents, enabling automated workflows like job applications and web scraping.",
     "category": "developer-tools"
+  },
+  {
+    "name": "agent-qa",
+    "url": "https://vostride.com",
+    "description": "Natural-language Web, Android and iOS testing with persistent memidex memory and validated self-improvement. CLI and MCP interfaces help developers reuse testing experience.",
+    "category": "developer-tools"
   }
 ]
